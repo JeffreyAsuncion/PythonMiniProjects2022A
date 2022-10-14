@@ -1,0 +1,1 @@
+# PythonMiniProjects2022A
